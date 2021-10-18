@@ -1,0 +1,3 @@
+/home/zty/vscode/作业/build/CMakeFiles/rebuild_cache.dir
+/home/zty/vscode/作业/build/CMakeFiles/edit_cache.dir
+/home/zty/vscode/作业/build/CMakeFiles/main_cmake.dir
