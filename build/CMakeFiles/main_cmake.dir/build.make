@@ -69,28 +69,28 @@ include CMakeFiles/main_cmake.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main_cmake.dir/flags.make
 
-CMakeFiles/main_cmake.dir/8.cpp.o: CMakeFiles/main_cmake.dir/flags.make
-CMakeFiles/main_cmake.dir/8.cpp.o: ../8.cpp
-CMakeFiles/main_cmake.dir/8.cpp.o: CMakeFiles/main_cmake.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zty/vscode/作业/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main_cmake.dir/8.cpp.o"
-	/bin/x86_64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main_cmake.dir/8.cpp.o -MF CMakeFiles/main_cmake.dir/8.cpp.o.d -o CMakeFiles/main_cmake.dir/8.cpp.o -c /home/zty/vscode/作业/8.cpp
+CMakeFiles/main_cmake.dir/11.cpp.o: CMakeFiles/main_cmake.dir/flags.make
+CMakeFiles/main_cmake.dir/11.cpp.o: ../11.cpp
+CMakeFiles/main_cmake.dir/11.cpp.o: CMakeFiles/main_cmake.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zty/vscode/作业/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main_cmake.dir/11.cpp.o"
+	/bin/x86_64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main_cmake.dir/11.cpp.o -MF CMakeFiles/main_cmake.dir/11.cpp.o.d -o CMakeFiles/main_cmake.dir/11.cpp.o -c /home/zty/vscode/作业/11.cpp
 
-CMakeFiles/main_cmake.dir/8.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main_cmake.dir/8.cpp.i"
-	/bin/x86_64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zty/vscode/作业/8.cpp > CMakeFiles/main_cmake.dir/8.cpp.i
+CMakeFiles/main_cmake.dir/11.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main_cmake.dir/11.cpp.i"
+	/bin/x86_64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zty/vscode/作业/11.cpp > CMakeFiles/main_cmake.dir/11.cpp.i
 
-CMakeFiles/main_cmake.dir/8.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main_cmake.dir/8.cpp.s"
-	/bin/x86_64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zty/vscode/作业/8.cpp -o CMakeFiles/main_cmake.dir/8.cpp.s
+CMakeFiles/main_cmake.dir/11.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main_cmake.dir/11.cpp.s"
+	/bin/x86_64-linux-gnu-g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zty/vscode/作业/11.cpp -o CMakeFiles/main_cmake.dir/11.cpp.s
 
 # Object files for target main_cmake
 main_cmake_OBJECTS = \
-"CMakeFiles/main_cmake.dir/8.cpp.o"
+"CMakeFiles/main_cmake.dir/11.cpp.o"
 
 # External object files for target main_cmake
 main_cmake_EXTERNAL_OBJECTS =
 
-../bin/main_cmake: CMakeFiles/main_cmake.dir/8.cpp.o
+../bin/main_cmake: CMakeFiles/main_cmake.dir/11.cpp.o
 ../bin/main_cmake: CMakeFiles/main_cmake.dir/build.make
 ../bin/main_cmake: CMakeFiles/main_cmake.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zty/vscode/作业/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../bin/main_cmake"

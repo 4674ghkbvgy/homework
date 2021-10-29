@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/zty/vscode/作业/8.cpp" "CMakeFiles/main_cmake.dir/8.cpp.o" "gcc" "CMakeFiles/main_cmake.dir/8.cpp.o.d"
+  "/home/zty/vscode/作业/11.cpp" "CMakeFiles/main_cmake.dir/11.cpp.o" "gcc" "CMakeFiles/main_cmake.dir/11.cpp.o.d"
   )
 
 # Targets to which this target links.

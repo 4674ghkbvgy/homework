@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/zty/vscode/作业/build",
-  "command": "/bin/x86_64-linux-gnu-g++-10   -O0 -Wall -ggdb -o CMakeFiles/main_cmake.dir/8.cpp.o -c /home/zty/vscode/作业/8.cpp",
-  "file": "/home/zty/vscode/作业/8.cpp"
+  "command": "/bin/x86_64-linux-gnu-g++-10   -O0 -Wall -ggdb -o CMakeFiles/main_cmake.dir/11.cpp.o -c /home/zty/vscode/作业/11.cpp",
+  "file": "/home/zty/vscode/作业/11.cpp"
 }
 ]
